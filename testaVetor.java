@@ -1,5 +1,5 @@
 /*
-2) Escreva um programa que leia uma sequência de N n�meros e calcula quantos n�meros na sequência são maiores que a madia dos N n�meros lidos. A quantidade de n�meros N � informado pelo usu�rio
+ Programa que faz a leitura de uma sequência de N números e calcula quantos números na sequência são maiores que a madia dos N números lidos. A quantidade de números N é informado pelo usuário
 */
 // importa biblioteca Scanner
 import java.util.Scanner; 
